@@ -73,7 +73,7 @@ If you liked this project or have any suggestions:
 
 - ✉️ Email: bhuvneshudhwani@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/bhuvneshudhwani/ 
-  Screenshot/Demos
+ ## Screenshot/Demos
   Show what the dashboard looks like-
 ![Dashboard Preview](https://github.com/Bhuvneshudhwani/E-Commerce-Dashboard/blob/main/E-Commerce%20Sales%20Dashboard.png)
 
