@@ -74,5 +74,6 @@ If you liked this project or have any suggestions:
 - ✉️ Email: bhuvneshudhwani@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/bhuvneshudhwani/ 
   
+![Dashboard Preview](https://github.com/Bhuvneshudhwani/E-Commerce-Dashboard/blob/main/E-Commerce%20Sales%20Dashboard.png)
 
 ---
